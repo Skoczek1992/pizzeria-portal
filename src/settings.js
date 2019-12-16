@@ -1,4 +1,5 @@
 export const api = {
+  // eslint-disable-next-line
   url: '//' + window.location.hostname + (window.location.hostname=='localhost' ? ':3131' : ''),
   tables: 'tables',
   products: 'products',
