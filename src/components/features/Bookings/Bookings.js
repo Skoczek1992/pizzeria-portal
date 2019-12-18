@@ -32,7 +32,7 @@ export default function Orders() {
   return (
     <>
       <Subtitle>Events/Bookings for today</Subtitle>
-      <Table size="big">
+      <Table size="medium">
         <TableHead>
           <TableRow>
             <TableCell>Time</TableCell>

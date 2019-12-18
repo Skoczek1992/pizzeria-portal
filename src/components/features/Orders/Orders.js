@@ -36,7 +36,7 @@ export default function Orders() {
   return (
     <React.Fragment>
       <Subtitle>Recent Orders</Subtitle>
-      <Table size="big">
+      <Table size="medium">
         <TableHead>
           <TableRow>
             <TableCell>Date</TableCell>
